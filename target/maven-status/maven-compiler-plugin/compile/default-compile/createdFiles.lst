@@ -1,0 +1,12 @@
+static_proxy\Test.class
+cglib_proxy\ProxyFactory.class
+jdk_proxy\SellTickets.class
+jdk_proxy\ProxyFactory.class
+jdk_proxy\Test.class
+static_proxy\SellTickets.class
+static_proxy\TrainStation.class
+jdk_proxy\ProxyFactory$1.class
+cglib_proxy\TrainStation.class
+jdk_proxy\TrainStation.class
+static_proxy\ProxyPoint.class
+cglib_proxy\Test.class
